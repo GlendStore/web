@@ -1,0 +1,17 @@
+
+.item{
+    float: left;
+    margin: 1em;
+    padding: 1em;
+}
+.cabezera{
+    text-align: center;
+}
+div{
+    overflow: hidden;
+}
+.barra_inicio{
+    color: #ffffff;
+    background: green;
+    overflow: hidden;
+}
